@@ -1,6 +1,5 @@
 # Email-Template-Gaudiinc
-First Email Template for Gaudiinc   
-Fully responsive Gaudi Email template. Designs were created in Canva.
+Email Template Design
 
 [Link to live preview!](https://htmlpreview.github.io/?https://github.com/JakeD57/Email-Template-Gaudiinc/blob/master/index.html)
 
